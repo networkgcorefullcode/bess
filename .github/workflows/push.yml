@@ -8,5 +8,5 @@ on:
 
 jobs:
   bess-release-image:
-    uses: omec-project/.github/.github/workflows/bess-release-image.yml@main
+    uses: networkgcorefullcode/.github/.github/workflows/bess-release-image.yml@main
     secrets: inherit

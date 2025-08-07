@@ -8,6 +8,6 @@ on:
 
 jobs:
   build:
-    uses: omec-project/.github/.github/workflows/bess-build-test.yml@main
+    uses: networkgcorefullcode/.github/.github/workflows/bess-build-test.yml@main
     with:
       branch_name: ${{ github.ref }}
